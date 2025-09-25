@@ -1,0 +1,1 @@
+# [OWASP Top 10 LLM](https://www.evidentlyai.com/blog/owasp-top-10-llm)
