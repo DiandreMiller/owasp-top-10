@@ -101,3 +101,17 @@ Rewrite the input to neutralize risky elements.
 ```
 
 I don't think I've ever added output guardrails in any of my projects. How would I implement that? Not exactly sure
+
+How to implement output validation?
+
+
+
+[Low Rank Adaptation](https://towardsdatascience.com/understanding-lora-low-rank-adaptation-for-finetuning-large-models-936bce1a07c6/#:~:text=The%20intrinsic%20rank%20hypothesis%20suggests,effectively%20encapsulate%20the%20necessary%20adjustments.)
+
+[RAG](https://www.ibm.com/think/topics/retrieval-augmented-generation#:~:text=Retrieval%20augmented%20generation%20(RAG)%20is,responses%20at%20a%20higher%20quality.)
+
+What's the difference between a System prompt leakage and an Indirect Prompt injection?
+
+What is the relationship to embedding and LLMs?
+
+[Microservices](https://www.dynatrace.com/news/blog/what-are-microservices/)
