@@ -100,4 +100,4 @@ Rewrite the input to neutralize risky elements.
 
 ```
 
-I don't think I've ever added output guardrails in any of my projects. How would I implement that?
+I don't think I've ever added output guardrails in any of my projects. How would I implement that? Not exactly sure
