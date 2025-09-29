@@ -66,3 +66,15 @@
 - Is implementing a proper CORS policy effective in preventing SSRF attacks?
 
 - Does blocking API testing tools like Postman or cURL improve API security?
+
+## Other questions?
+
+- Are static languages such as typescript similar to SAST tools?
+
+- Is the concept of Access Broken Control similar to encapulation?
+
+- If a client is using raw SQL, are there other ways to ensure data is secure other than ensuring you sanitize and validate inputs as well as rate limiting?  
+
+- To my knowledge, using Passkeys are the most secure form of login for users, would the use of passkeys when logging in prevent some of the access control issues? 
+ 
+- Should you encrypt params like account numbers or hide it entirely on the client side?  
