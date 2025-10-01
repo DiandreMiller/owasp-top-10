@@ -109,6 +109,9 @@
 
 - Can [shifting left in coding](https://www.dynatrace.com/news/blog/what-is-shift-left-and-what-is-shift-right/) help prevent an issue such as this?  
 
+
+**Asked**
+
 - If credential recovery that includes “questions and answers” is prohibited by NIST 800-63b, the OWASP ASVS and the OWASP top 10, why do so many applications use that as a valid recovery method?
 
 - What's the difference between a System prompt leakage and an Indirect Prompt injection?
@@ -117,8 +120,12 @@
 
 ## Important:
 
+**Asked**
 - Is this similar to siri? 
 Action-selector pattern. The model selects from a list of pre-approved actions. It cannot create arbitrary tool calls or generate free-form commands. This eliminates the ability of injected prompts to influence execution.
+
+
+**Asked**
 
 - Is this:
 
