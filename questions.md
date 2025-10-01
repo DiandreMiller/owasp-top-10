@@ -30,6 +30,8 @@
 
 ## Insecure Design:
 
+**Asked**
+
 - If an application has an insecure design, what are things to consider when rewriting the application from scratch or patching thing up? 
 
 
