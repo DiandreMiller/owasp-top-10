@@ -141,6 +141,7 @@ Prompt intent detection (user inputs that resemble instructions).
 When suspicious input is detected, the system can:
 
 Block it entirely.
+
 Redirect to a safer path (e.g., a fallback message or human escalation).
 Rewrite the input to neutralize risky elements.
 
