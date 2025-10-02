@@ -79,7 +79,7 @@
 
 - Should you encrypt params like account numbers or hide it entirely on the client side?  
 
-- Is any data transmitted in clear text? This includes protocols such as HTTP, SMTP, FTP also using TLS upgrades like ([STARTTLS](https://mailtrap.io/blog/starttls-ssl-tls/)). External internet traffic is hazardous. Verify all internal traffic between [load balancers](https://www.cloudflare.com/learning/performance/what-is-load-balancing/), web servers, or back-end systems.  
+- Is any data transmitted in clear text? This includes protocols such as HTTP, SMTP, FTP also using TLS upgrades like ([STARTTLS](https://mailtrap.io/blog/starttls-ssl-tls/)). External internet traffic is hazardous. Verify all internal traffic between [load balancers](https://www.cloudflare.com/learning/performance/what-is-load-balancing/), web servers, or back-end systems?
 
 - Are any old or weak cryptographic algorithms or protocols used either by default or in older code?
 
