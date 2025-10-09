@@ -6,15 +6,15 @@
 
 **Question 2:** How to prevent scripting attacks?
 
+You can prevent scripting attacks by sanitizing inputs and validating inputs
 
-
-**Question 3:** LLM Tool injections prevention like burp suite
+**Question 3:** What is the purpose of burp suite?
 
 
 
 **Question 4:** Vulnerabilities of above design:
 
-
+![Vulnerable Client Server Database Design](assets/flawedClientServerDiagram.png)
 
 **Question 5:** Network vulnerabilities. What are examples of network attacks and vulnerabilities?
 
