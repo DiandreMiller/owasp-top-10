@@ -7,4 +7,8 @@ How it works (high level)
 4.	The browser validates that certificate against its trusted root CAs. If the Burp CA is trusted by the browser/OS, the browser accepts the connection.
 5.	Meanwhile, Burp opens a separate TLS connection to the real example.com. So Burp terminates TLS from the client and initiates TLS to the server — enabling it to see and modify plaintext requests/responses. This is classic MITM (man-in-the-middle).
 
+## What is fuzzing?
+
+Fuzzing is an automated software testing technique that sends large numbers of unexpected, malformed, or random inputs to a program. protocol handler, API, or file parser to find crashes, hangs, logic errors, memory corruption, or other unexpected behavior. The goal is to discoer flaws that arise when software recieves input it wasn't designed or tested for.
+
 
