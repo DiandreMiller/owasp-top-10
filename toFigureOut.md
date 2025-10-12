@@ -125,3 +125,102 @@ are JSON Web Tokens (JWTs) and SAML assertions
  The allowlist must include the
 permitted algorithms, ideally only either symmetric or asymmetric
 algorithms, and must not include the‘None’algorithm. 
+
+key derivation functions (KDF),
+
+key derivation functions (KDF),
+
+Diffie‑Hellman
+and Elliptic Curve Diffie‑Hellman (ECDH)
+
+RSA keys which are vulnerable to
+Fermat factorization.
+
+Online Certificate Status
+Protocol (OCSP) Stapling
+
+Verify that Encrypted Client Hello (ECH) is enabled in the application’s TLS
+settings to prevent exposure of sensitive metadata, such as the Server Name
+Indication (SNI), during TLS handshake processes.
+
+back‑off algorithms.
+
+Web Cache Deception attacks
+
+mix‑up attacks
+
+Demonstration of Proof of Possession (DPoP).
+
+authorization code interception attacks
+
+proof key for code
+exchange (PKCE)
+
+pushed authorization request (PAR) or JWT‑secured Authorization
+Request (JAR)
+
+Rich Authorization
+Requests (RAR)
+
+Verify that all cryptographic primitives utilize a minimum of 128‑bits of
+security based on the algorithm, key size, and configuration.
+
+Padding Oracle attacks
+
+MAC
+algorithm 
+
+sandboxing
+
+dependency confusion attack
+
+containerization
+
+What is the purpose of docker
+
+type juggling, prototype pollution
+
+semaphores
+
+race conditions
+
+time‑of‑check to time‑of‑use (TOCTOU) 
+
+SIEM
+
+ Applica‑
+tions must also fail securely, avoiding unnecessary disclosure or disruption.
+
+Verify that each log entry includes necessary metadata (such as when,
+where, who, what) that would allow for a detailed investigation of the
+timeline when an event happens.
+
+log
+injection
+
+Verify that logs are securely transmitted to a logically separate system for
+analysis, detection, alerting, and escalation. The aim is to ensure that if the
+application is breached, the logs are not compromised.
+
+circuit breakers
+or graceful degradation
+
+last‑resort event handlers
+
+Web Real‑Time Communication (WebRTC) 
+
+TURN (Traversal Us‑
+ing Relays around NAT) servers.
+
+validating timestamps
+
+Datagram Transport Layer Security (DTLS)
+
+Real‑time Transport Protocol (SRTP)
+
+Real‑time Transport Protocol (RTP) injection attacks
+
+Verify that the media server is not susceptible to the“ClientHello”Race
+Condition vulnerability in Datagram Transport Layer Security (DTLS) by
+checking if the media server is publicly known to be vulnerable or by
+performing the race condition test.
