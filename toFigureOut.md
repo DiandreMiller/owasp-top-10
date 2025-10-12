@@ -224,3 +224,12 @@ Verify that the media server is not susceptible to the“ClientHello”Race
 Condition vulnerability in Datagram Transport Layer Security (DTLS) by
 checking if the media server is publicly known to be vulnerable or by
 performing the race condition test.
+
+Cryptographic key wrap (and corresponding key unwrap) is a method of protecting an existing key
+by encapsulating (i.e., wrapping) it by employing an additional encryption mechanism so that the
+original key is not obviously exposed, e.g., during a transfer. This additional key used to protect the
+original key is referred to as the wrap key.
+
+Message Authentication Codes (MAC)
+
+salami attacks, logic bombs, time bombs
