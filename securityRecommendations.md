@@ -1,8 +1,7 @@
 # Recommended, in‑scope mechanisms
 
 
-The following items are in‑scope for ASVS. They should not be made mandatory but it is strongly
-recommended to consider them as part of a secure application.
+***The following items are in‑scope for ASVS. They should not be made mandatory but it is strongly recommended to consider them as part of a secure application.***
 
 - A password strength meter should provided to help users set a stronger password.
 
